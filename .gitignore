@@ -1,2 +1,2 @@
-asset/
-__pycache__/
+app/asset/
+app/__pycache__/
